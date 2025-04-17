@@ -113,4 +113,8 @@ https://www.datacamp.com/tutorial/decision-tree-classification-python
 
 https://www.datacamp.com/tutorial/random-forests-classifier-python
 
+https://www.datacamp.com/tutorial/xgboost-in-python
+
+https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python
+
 
