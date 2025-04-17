@@ -105,3 +105,12 @@ A high AUC of 0.91 indicates excellent ability to distinguish productive vs. non
 
 Visual analysis complements metric evaluation to provide insights into prediction behavior and decision thresholds.
 
+## Citations
+
+https://www.geeksforgeeks.org/ml-logistic-regression-using-python/
+
+https://www.datacamp.com/tutorial/decision-tree-classification-python
+
+https://www.datacamp.com/tutorial/random-forests-classifier-python
+
+
