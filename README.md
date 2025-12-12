@@ -1,3 +1,5 @@
+# Synthetic Oil Reservoir Using Machine Learning
+
 ## 📌 Project Overview
 
 In traditional oil exploration, identifying promising reservoirs involves manual geological analysis, which can be slow and expensive. This project automates the prediction process by using supervised machine learning models on a synthetic dataset, offering a proof of concept that can be scaled to real-world data.
